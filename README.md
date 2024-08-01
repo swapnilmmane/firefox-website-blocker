@@ -50,4 +50,4 @@ Feel free to raise a GitHub issue to report bug/improvement. Pull requests are w
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [Apache License](https://github.com/swapnilmmane/firefox-website-blocker/blob/main/LICENSE).
