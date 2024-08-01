@@ -19,7 +19,7 @@ Website Blocker is a simple Firefox extension that allows users to block access 
 
    ```bash
    git clone https://github.com/swapnilmmane/firefox-website-blocker.git
-   cd website-blocker-extension
+   cd firefox-website-blocker
    ```
 
 2. **Open Firefox and Enable Debugging**:
