@@ -7,7 +7,11 @@ Website Blocker is a simple Firefox extension that allows users to block access 
 - Block multiple websites by entering URLs separated by commas.
 - Simple user interface to add and remove blocked sites.
 
-## Installation Instructions
+## Install Website Blocker on Firefox
+Click the link below to add the Website Blocker to your Firefox browser:  
+https://addons.mozilla.org/firefox/downloads/file/4359202/c2af679e8212430fb5b1-1.0.xpi 
+
+## Installation Instructions for Development
 
 ### Prerequisites
 
